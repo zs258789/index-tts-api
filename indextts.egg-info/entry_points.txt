@@ -1,0 +1,2 @@
+[console_scripts]
+indextts = indextts.cli:main

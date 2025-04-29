@@ -1,0 +1,15 @@
+torch==2.6.0
+torchaudio
+transformers==4.36.2
+accelerate
+tokenizers==0.15.0
+einops==0.8.1
+matplotlib==3.8.2
+omegaconf
+sentencepiece
+librosa
+numpy
+WeTextProcessing
+
+[webui]
+gradio
